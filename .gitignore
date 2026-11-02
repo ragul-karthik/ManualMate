@@ -1,0 +1,8 @@
+.venv/
+.deps/
+__pycache__/
+*.py[cod]
+.streamlit/secrets.toml
+.manualmate/
+logs/
+tmp/
